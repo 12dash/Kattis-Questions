@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563813129 source:c:\users\soham\onedrive\desktop\kattis\number fun\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563812614 source:c:\users\soham\onedrive\desktop\kattis\poker hand\main.c
+	<stdio.h>
+	<stdlib.h>
+

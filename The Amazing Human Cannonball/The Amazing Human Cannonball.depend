@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565245491 source:c:\users\soham\onedrive\desktop\kattis\the amazing human cannonball\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

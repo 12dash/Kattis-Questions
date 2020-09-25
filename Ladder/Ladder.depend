@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563842661 source:c:\users\soham\onedrive\desktop\kattis\ladder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

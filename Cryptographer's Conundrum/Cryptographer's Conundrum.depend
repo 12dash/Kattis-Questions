@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564057279 source:c:\users\soham\onedrive\desktop\kattis\cryptographer's conundrum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

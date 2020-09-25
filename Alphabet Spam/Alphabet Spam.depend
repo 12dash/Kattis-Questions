@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565186194 source:c:\users\soham\onedrive\desktop\kattis\alphabet spam\main.c
+	<stdio.h>
+	<stdlib.h>
+
